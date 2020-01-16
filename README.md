@@ -20,7 +20,7 @@ Aby móc rozwiązać zadania dostępne w tym repozytorium powinieneś:
 
 &nbsp;
 
-> :warning: Jeśli potrzebujesz materiałów do zadań to znajdziesz je na stronie :books:(https://devmentor.pl/p/js-tools/)
+> :warning: Jeśli potrzebujesz materiałów do zadań to znajdziesz je na stronie :books:[devmentor.pl](https://devmentor.pl/p/js-tools/)
 
 > :white_check_mark: Wykonanie każdego z zadań bez problemów będzie oznaczać, że jesteś gotowy, aby przejść do następnych zagadnień :arrow_right:
 
