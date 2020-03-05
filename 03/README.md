@@ -4,7 +4,7 @@
 
 &nbsp;
 
-Teraz Twoim zdaniem będzie uruchomienie własnego tzw. workspace używając Slack-a.
+Teraz Twoim zdaniem będzie [uruchomienie własnego tzw. workspace](https://slack.com/create) dla Slack-a.
 
 Utwórz w nim dodatkowe kanały:
 - HTML
