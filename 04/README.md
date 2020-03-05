@@ -6,7 +6,7 @@
 
 Nadszedł czas na uzupełnienie Twojego profilu na [LinkedIn](https://www.linkedin.com/), dodaj do niego również umiejętność `Git` oraz `GitHub`.
 
-Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swojej sieci. Jeśli wykonasz wszystkie zadania z tego repozytorium i będziesz śledził [konto devmentor-pl](https://github.com/devmentor-pl) ja odwdzięcze się potwierdzeniem obu Twoich umiejeności!
+Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swojej sieci. Jeśli wykonasz wszystkie zadania z tego repozytorium i polubisz [stronę devmentor.pl na FB](https://www.facebook.com/devmentorpl/) ja odwdzięcze się potwierdzeniem obu Twoich umiejeności!
 
 &nbsp;
 
