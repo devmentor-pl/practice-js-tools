@@ -7,13 +7,15 @@
 Teraz Twoim zdaniem będzie [uruchomienie własnego tzw. workspace](https://slack.com/create) dla Slack-a.
 
 Utwórz w nim dodatkowe kanały:
-- HTML
-- CSS
-- JavaScript
+- *HTML*
+- *CSS*
+- *JavaScript*
 
 Będą to miejsca, w których będziesz zapisywać linki do materiałów do przeczytania na później. 
 
-Zaproś również znajomego do utworzonego workspace i wykorzystując Skype połącz się znim, aby zaprezentować mu obsługę Slack-a dzięki opcji udostępniania ekranu. Możesz mu zapropnować wspólne uzupełniania kanałów ciekawymi treściami!
+Zaproś również znajomego do utworzonego workspace i wykorzystując *Skype* połącz się znim, aby zaprezentować mu obsługę tego narzędzia dzięki opcji udostępniania ekranu. 
+
+**PS. Możesz mu zapropnować wspólne uzupełniania kanałów ciekawymi treściami!**
 
 &nbsp;
 

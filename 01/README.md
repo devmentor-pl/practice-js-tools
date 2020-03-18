@@ -6,7 +6,7 @@
 
 Jeśli pliki tego repozytorium pobrałeś w inny sposób jak wykorzystując `fork` i `clone` zrób to jeszcze raz, aby móc wykorzystać *GIT-a* do zarządzania historią zmian.
 
-Następnie zmodyfikuj strukturę HTML dodając do pliku `index.html` w katalogu `01` znacznik `<h1>` ([podpowiedź](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_headers)) z napisem:
+Następnie zmodyfikuj strukturę *HTML* dodając do pliku `index.html` w katalogu `01` znacznik `<h1>` ([podpowiedź](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_headers)) z napisem:
 
 > GIT jest fajny!
 

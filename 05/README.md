@@ -4,7 +4,7 @@
 
 &nbsp;
 
-Przed Tobą ostatnie zadanie! Wykonaj `pull request` :)
+Przed Tobą ostatnie zadanie! Wykonaj *[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)* :)
 
 &nbsp;
 
