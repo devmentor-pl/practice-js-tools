@@ -6,7 +6,7 @@
 
 Sprawdź w wierszu poleceń (terminalu) jaką wersję *[Node.js](https://nodejs.org/en/)* posiadasz zainstalowaną w swoim systemie. Uzupełnij o tą informację plik `./app.js`.
 
-Postaraj się uruchomić plik znajdujący sie w lokalizacji `./02/app.js` (uważaj, aby wpisać prawidłową ścieżkę). Użyj do tego komendy `node [ścieżka-do-pliku]`
+Postaraj się uruchomić plik znajdujący się w lokalizacji `./02/app.js` (uważaj, aby wpisać prawidłową ścieżkę). Użyj do tego komendy `node [ścieżka-do-pliku]`
 
 
 &nbsp;
