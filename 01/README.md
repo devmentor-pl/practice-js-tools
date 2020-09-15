@@ -12,7 +12,7 @@ Następnie zmodyfikuj strukturę *HTML* dodając do pliku `index.html` w katalog
 
 Następnie uruchom plik `index.html` w przeglądarce *Chrome* (użytkownicy *VS Code* pownni to zrobić przez rozszerzenie [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)) i sprawdź czy napis jest widoczny.
 
-Następnie użyj komend `git add`, `git commit`, `git push` z poziomu wiersza poleceń w celu wysłania historii plików na serwer *GitHub*. 
+Następnie użyj komend `git add`, `git commit`, `git push` z poziomu wiersza poleceń w celu wysłania historii plików na serwer *GitHub*.
 
 &nbsp;
 
