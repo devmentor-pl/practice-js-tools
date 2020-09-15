@@ -11,9 +11,9 @@ Utwórz w nim dodatkowe kanały:
 - *CSS*
 - *JavaScript*
 
-Będą to miejsca, w których będziesz zapisywać linki do materiałów do przeczytania na później. 
+Będą to miejsca, w których będziesz zapisywać linki do materiałów do przeczytania na później.
 
-Zaproś również znajomego do utworzonego workspace i wykorzystując *Skype* połącz się znim, aby zaprezentować mu obsługę tego narzędzia dzięki opcji udostępniania ekranu. 
+Zaproś również znajomego do utworzonego workspace i wykorzystując *Skype* połącz się znim, aby zaprezentować mu obsługę tego narzędzia dzięki opcji udostępniania ekranu.
 
 **PS. Możesz mu zapropnować wspólne uzupełniania kanałów ciekawymi treściami!**
 
