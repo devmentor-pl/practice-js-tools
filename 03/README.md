@@ -20,3 +20,5 @@ Zaproś również znajomego do utworzonego workspace i wykorzystując *Skype* po
 &nbsp;
 
 > :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/p/js-tools/)
+
+Zrobione! Mój workspace powstał :-)
