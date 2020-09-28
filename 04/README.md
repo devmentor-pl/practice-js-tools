@@ -13,3 +13,5 @@ Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swo
 &nbsp;
 
 > :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/p/js-tools/)
+
+Zakończone! Zapraszam na mój linkedin i bardzo proszę o potwierdzenie umiejętności :-) Link: https://www.linkedin.com/in/mateusz-sowa-720a721a8/
