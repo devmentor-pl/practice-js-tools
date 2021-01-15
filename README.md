@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# JavaScript: Narzędzia
+# JavaScript: Narzędzia - test
 
 Narzędzia to temat, od którego powinniśmy zacząć naukę programowania. Bez odpowiednio przygotowanego stanowiska pracy będziemy ciągle odrywać się od efektywnej nauki.
 
