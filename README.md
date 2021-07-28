@@ -10,7 +10,7 @@ Aby rozwiązać zadania, powinieneś:
 - wybrać najwygodniejsze dla siebie IDE - rekomenduję [VS Code](https://code.visualstudio.com/),
 - pobrać i ustawić [Chrome](https://www.google.com/intl/pl_pl/chrome/) jako przeglądarkę domyślną,
 - zainstalować środowisko [Node.js](https://nodejs.org/),
-- zaznajomić się z obsługą [GIT](https://git-scm.com/)-a oraz GitHuba,
+- zaznajomić się z obsługą [Gita](https://git-scm.com/) oraz GitHuba,
 - poznać narzędzia komunikacji, takie jak [Slack](https://slack.com/) i [Skype](https://www.skype.com/),
 - posiadać konto w serwisie [LinkedIn](http://linkedin.com/).
 
