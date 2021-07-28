@@ -4,9 +4,13 @@
 
 # `#02` JavaScript: Narzędzia
 
-Sprawdź w wierszu poleceń (terminalu) jaką wersję *[Node.js](https://nodejs.org/en/)* tj. `node -v` oraz *[npm](https://www.npmjs.com/)* (manadżer pakietów instalowany wraz z Node.js) tj. `npm -v` posiadasz zainstalowaną w swoim systemie. Uzupełnij o tą informację plik `./app.js`.
+Sprawdź w wierszu poleceń (terminalu), jaką wersję poniższych narzędzi posiadasz w swoim systemie:
+- *[Node.js](https://nodejs.org/en/)* - komenda do sprawdzenia wersji: `node -v`,
+- *[npm](https://www.npmjs.com/)* (manadżer pakietów instalowany wraz z Node.js) - komenda do sprawdzenia wersji: `npm -v`.
 
-Postaraj się uruchomić plik znajdujący się w lokalizacji `./02/app.js` (uważaj, aby wpisać prawidłową ścieżkę). Użyj do tego komendy `node [ścieżka-do-pliku]`
+Uzupełnij o te informacje plik `./app.js`.
+
+Postaraj się uruchomić w terminalu plik znajdujący się w lokalizacji `./02/app.js`. Użyj do tego komendy `node [ścieżka-do-pliku]`. Uważaj, aby wpisać prawidłową ścieżkę.
 
 &nbsp;
 
