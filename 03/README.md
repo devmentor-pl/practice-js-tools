@@ -4,18 +4,18 @@
 
 # `#03` JavaScript: Narzędzia
 
-Teraz Twoim zdaniem będzie [uruchomienie własnego tzw. workspace](https://slack.com/create) dla Slack-a.
+Teraz Twoim zdaniem będzie [uruchomienie własnego workspace'a](https://slack.com/create) na Slacku.
 
-Utwórz w nim dodatkowe kanały:
-- *HTML*
-- *CSS*
-- *JavaScript*
+Utwórz w nim poniższe kanały:
+- *HTML*,
+- *CSS*,
+- *JavaScript*.
 
-Będą to miejsca, w których będziesz zapisywać linki do materiałów do przeczytania na później. 
+Niech stanowią miejsce, w którym będziesz zapisywać linki do materiałów do przeczytania na później. 
 
-Zaproś również znajomego do utworzonego workspace i wykorzystując *Skype* połącz się znim, aby zaprezentować mu obsługę tego narzędzia dzięki opcji udostępniania ekranu. 
+Do utworzonego workspace'a zaproś swojego znajomego. Następnie, wykorzystując *Skype'a*, połącz się z nim i zaprezentuj mu obsługę Slacka. Aby to zrobić, użyj opcji udostępniania ekranu. 
 
-**PS. Możesz mu zapropnować wspólne uzupełniania kanałów ciekawymi treściami!**
+**PS. Możesz mu zapropnować wspólne uzupełnianie kanałów ciekawymi treściami!**
 
 &nbsp;
 
