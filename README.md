@@ -6,13 +6,13 @@
 
 Narzędzia to temat, od którego powinniśmy zacząć naukę programowania. Bez odpowiednio przygotowanego stanowiska pracy będziemy ciągle odrywać się od efektywnej nauki.
 
-Aby rozwiązać zadania dostępne w tym repozytorium, powinieneś:
-- Wybrać najwygodniejsze dla siebie IDE - rekomenduję [VS Code](https://code.visualstudio.com/).
-- Pobrać i ustawić [Chrome](https://www.google.com/intl/pl_pl/chrome/) jako przeglądarkę domyślną.
-- Zainstalować środowisko [Node.js](https://nodejs.org/).
-- Zaznajomić się z obsługą [GIT](https://git-scm.com/)-a oraz GitHuba.
-- Poznać narzędzia komunikacji, takie jak [Slack](https://slack.com/) i [Skype](https://www.skype.com/).
-- Posiadać konto w serwisie [LinkedIn](http://linkedin.com/).
+Aby rozwiązać zadania, powinieneś:
+- wybrać najwygodniejsze dla siebie IDE - rekomenduję [VS Code](https://code.visualstudio.com/),
+- pobrać i ustawić [Chrome](https://www.google.com/intl/pl_pl/chrome/) jako przeglądarkę domyślną,
+- zainstalować środowisko [Node.js](https://nodejs.org/),
+- zaznajomić się z obsługą [GIT](https://git-scm.com/)-a oraz GitHuba,
+- poznać narzędzia komunikacji, takie jak [Slack](https://slack.com/) i [Skype](https://www.skype.com/),
+- posiadać konto w serwisie [LinkedIn](http://linkedin.com/).
 
 &nbsp;
 
@@ -37,4 +37,3 @@ Pamiętaj o zapisywaniu historii zmian w plikach przy pomocy komend [`git add`](
 Aby wysłać dane na zdalny serwer, wystarczy komenda [`git push`](https://github.com/git-guides/git-push).
 
 Po wysłaniu plików na GitHuba wykonaj [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork), aby wziąć udział w losowaniu bezpłatnego [Code Review](https://en.wikipedia.org/wiki/Code_review) wykonanych zadań
-
