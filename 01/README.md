@@ -4,15 +4,17 @@
 
 # `#01` JavaScript: Narzędzia
 
-Jeśli pliki tego repozytorium pobrałeś w inny sposób jak wykorzystując `fork` i `clone` zrób to jeszcze raz, aby móc wykorzystać *GIT-a* do zarządzania historią zmian.
+Jeśli pliki tego repozytorium pobrałeś w inny sposób niż wykorzystując `fork` i `clone`, zrób to jeszcze raz, aby móc używać *Gita* do zarządzania historią zmian.
 
-Następnie zmodyfikuj strukturę *HTML* dodając do pliku `index.html` w katalogu `01` znacznik `<h1>` ([podpowiedź](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_headers)) z napisem:
+Następnie zmodyfikuj strukturę *HTML*, dodając do pliku `index.html` w katalogu `01` znacznik `<h1>` z napisem:
 
-> GIT jest fajny!
+> Git jest fajny!
 
-Następnie uruchom plik `index.html` w przeglądarce *Chrome* (użytkownicy *VS Code* pownni to zrobić przez rozszerzenie [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)) i sprawdź czy napis jest widoczny.
+Nie jesteś pewien, jak to zrobić? Zajrzyj do [podpowiedzi](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_headers).
 
-Następnie użyj komend `git add`, `git commit`, `git push` z poziomu wiersza poleceń w celu wysłania historii plików na serwer *GitHub*. 
+Następnie:
+- uruchom plik `index.html` w przeglądarce *Chrome* (użytkownicy *VS Code* pownni to zrobić przez rozszerzenie [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)) i sprawdź, czy napis jest widoczny,
+- użyj komend `git add`, `git commit`, `git push` z poziomu wiersza poleceń w celu wysłania historii plików na serwer *GitHub*. 
 
 &nbsp;
 > :arrow_left: ~~*poprzednie zadanie*~~ | [*następne zadanie*](./../02) :arrow_right:
