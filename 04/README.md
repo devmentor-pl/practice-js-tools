@@ -4,11 +4,13 @@
 
 # `#04` JavaScript: Narzędzia
 
-Nadszedł czas na uzupełnienie Twojego profilu na [LinkedIn](https://www.linkedin.com/), dodaj do niego m. in. umiejętność *Git* oraz *GitHub*.
+Nadszedł czas na uzupełnienie Twojego profilu na [LinkedInie](https://www.linkedin.com/).
 
-Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swojej sieci. Jeśli wykonasz wszystkie zadania z tego repozytorium i polubisz [stronę devmentor.pl](https://www.facebook.com/devmentorpl/) na Facebooku to ja odwdzięcze się potwierdzeniem obu Twoich umiejętności!
+Dodaj do niego m.in. umiejętność obsługi *Gita* oraz *GitHuba*.
 
-**PS. Pamiętaj, aby dać mi znać, że zadania ukończyłeś.**
+Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swojej sieci. Jeśli wykonasz wszystkie zadania z tego repozytorium i polubisz [stronę devmentor.pl](https://www.facebook.com/devmentorpl/) na Facebooku, to ja odwdzięczę się potwierdzeniem obu Twoich umiejętności!
+
+**PS. Pamiętaj, aby dać mi znać, że ukończyłeś zadania.**
 
 &nbsp;
 
