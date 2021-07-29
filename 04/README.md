@@ -6,11 +6,11 @@
 
 Nadszedł czas na uzupełnienie Twojego profilu na [LinkedInie](https://www.linkedin.com/).
 
-Dodaj do niego m.in. umiejętność obsługi *Gita* oraz *GitHuba*.
+Dodaj do niego m.in. umiejętność obsługi *Gita* oraz *GitHuba* oraz informacje, że rozpoczynasz edukację z[devmentor.pl](https://www.linkedin.com/school/devmentor-pl/).
 
 Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swojej sieci. Jeśli wykonasz wszystkie zadania z tego repozytorium i polubisz [stronę devmentor.pl](https://www.facebook.com/devmentorpl/) na Facebooku, to ja odwdzięczę się potwierdzeniem obu Twoich umiejętności!
 
-**PS. Pamiętaj, aby dać mi znać, że ukończyłeś zadania.**
+**PS. Pamiętaj, aby dać mi znać na LI, że ukończyłeś zadania przesyłając mi link do swojego forka.**
 
 &nbsp;
 
