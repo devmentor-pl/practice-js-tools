@@ -13,11 +13,22 @@ Utwórz w nim poniższe kanały:
 
 Niech stanowią miejsce, w którym będziesz zapisywać linki do materiałów do przeczytania na później. 
 
+workspace JavaScript
+javascript-6a15325.slack.com
+
+workspace HTML
+slack-atf7632.slack.com
+
+workspace CSS
+slack-djw8621.slack.com
+
+
 Do utworzonego workspace'a zaproś swojego znajomego. Następnie, wykorzystując *Skype'a*, połącz się z nim i zaprezentuj mu obsługę Slacka. Aby to zrobić, użyj opcji udostępniania ekranu. 
 
 **PS. Możesz mu zapropnować wspólne uzupełnianie kanałów ciekawymi treściami!**
 
 &nbsp;
+
 
 > :arrow_left: [*poprzednie zadanie*](./../02) | [*następne zadanie*](./../04) :arrow_right:
 
