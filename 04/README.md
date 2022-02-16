@@ -10,13 +10,17 @@ LinkedIn jest
 
 Dodaj do niego m.in. umiejętność obsługi *Gita* i *GitHuba* oraz informację, że rozpoczynasz edukację z [devmentor.pl](https://www.linkedin.com/school/devmentor-pl/).
 
-GIT i GITHUB dodany
+#### info
+* GIT i GITHUB dodany
 
 Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swojej sieci. Jeśli wykonasz wszystkie zadania z tego repozytorium i polubisz [stronę devmentor.pl](https://www.facebook.com/devmentorpl/) na Facebooku, to ja odwdzięczę się potwierdzeniem obu Twoich umiejętności!
 
-Zaproszenie wysłane
-Polubienie wykonane
-Info na LI wysłany
+#### info
+* Zaproszenie wysłane
+
+* Polubienie wykonane
+
+* Info na LI wysłany
 
 **PS. Pamiętaj, aby dać mi znać na LI, że ukończyłeś zadania, przesyłając mi link do swojego forka.**
 
