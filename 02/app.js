@@ -1,4 +1,4 @@
-const NODE_V = process.version;
+const NODE_V = '14.20.0';
 const NPM_V = '7.24.2';
 
 console.log('Działa! Gratuluję uruchomienia JS z poziomu Node.js!');
