@@ -10,6 +10,7 @@ Utwórz w nim poniższe kanały:
 - *HTML*,
 - *CSS*,
 - *JavaScript*.
+- test
 
 Niech stanowią miejsce, w którym będziesz zapisywać linki do materiałów do przeczytania na później. 
 
