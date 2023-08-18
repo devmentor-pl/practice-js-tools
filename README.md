@@ -36,4 +36,4 @@ Pamiętaj o zapisywaniu historii zmian w plikach przy pomocy komend [`git add`](
 
 Aby wysłać dane na zdalny serwer, wystarczy komenda [`git push`](https://github.com/git-guides/git-push).
 
-Po wysłaniu plików na GitHuba wykonaj [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork), aby wziąć udział w losowaniu bezpłatnego [Code Review](https://en.wikipedia.org/wiki/Code_review) wykonanych zadań.
+Po wysłaniu plików na GitHuba wykonaj [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork), aby wziąć udział w losowaniu bezpłatnego [Code Review](https://en.wikipedia.org/wiki/Code_review) wykonanych zadań...
