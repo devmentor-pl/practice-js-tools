@@ -11,3 +11,5 @@ Przed Tobą ostatnie zadanie! Wykonaj *[pull request](https://help.github.com/en
 > :arrow_left: [*poprzednie zadanie*](./../04) | ~~*następne zadanie*~~ :arrow_right:
 
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/p/js-tools/)*
+
+Zadanie wykonano
