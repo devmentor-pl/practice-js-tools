@@ -17,6 +17,8 @@ Do utworzonego workspace'a zaproś swojego znajomego. Następnie, wykorzystując
 
 **PS. Możesz mu zapropnować wspólne uzupełnianie kanałów ciekawymi treściami!**
 
+Zadanie wykonano 
+
 &nbsp;
 
 > :arrow_left: [*poprzednie zadanie*](./../02) | [*następne zadanie*](./../04) :arrow_right:
