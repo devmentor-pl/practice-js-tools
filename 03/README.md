@@ -15,7 +15,7 @@ Niech stanowią miejsce, w którym będziesz zapisywać linki do materiałów do
 
 Do utworzonego workspace'a zaproś swojego znajomego. Następnie, wykorzystując *Skype'a*, połącz się z nim i zaprezentuj mu obsługę Slacka. Aby to zrobić, użyj opcji udostępniania ekranu. 
 
-**PS. Możesz mu zapropnować wspólne uzupełnianie kanałów ciekawymi treściami!**
+**PS. Możesz mu zaproponować wspólne uzupełnianie kanałów ciekawymi treściami!**
 
 &nbsp;
 
