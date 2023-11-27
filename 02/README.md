@@ -11,10 +11,10 @@ Sprawdź w wierszu poleceń (terminalu), jaką wersję poniższych narzędzi pos
 
 Uzupełnij o te informacje plik `./app.js`.
 
-Postaraj się uruchomić w terminalu plik znajdujący się w lokalizacji `./02/app.js`. Użyj do tego komendy `node [ścieżka-do-pliku]`. Uważaj, aby wpisać prawidłową ścieżkę.
+Postaraj się uruchomić w terminalu plik znajdujący się w lokalizacji `./02/app.js`. Użyj do tego komendy `git  [ścieżka-do-pliku]`. Uważaj, aby wpisać prawidłową ścieżkę.
 
 &nbsp;
 
-> :arrow_left: [_poprzednie zadanie_](./../01) | [_następne zadanie_](./../03) :arrow_right:
+> :arrow*left: [\_poprzednie zadanie*](./../01) | [_następne zadanie_](./../03) :arrow_right:
 
-> :no_entry: _Jeśli nie posiadasz materiałów do tego zadania, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/p/js-tools/)_
+> :no*entry: \_Jeśli nie posiadasz materiałów do tego zadania, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/p/js-tools/)*
