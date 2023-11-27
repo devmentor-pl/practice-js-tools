@@ -20,6 +20,6 @@ Do utworzonego workspace'a zaproś swojego znajomego. Następnie, wykorzystując
 
 &nbsp;
 
-> :arrow_left: [_poprzednie zadanie_](./../02) | [_następne zadanie_](./../04) :arrow_right:
+> :arrow*left: [\_poprzednie zadanie*](./../02) | [_następne zadanie_](./../04) :arrow_right:
 
-> :no_entry: _Jeśli nie posiadasz materiałów do tego zadania, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/p/js-tools/)_.
+> :no*entry: \_Jeśli nie posiadasz materiałów do tego zadania, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/p/js-tools/)*..
