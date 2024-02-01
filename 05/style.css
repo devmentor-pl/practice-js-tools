@@ -1,0 +1,21 @@
+article:hover {
+    box-shadow: 4px 2px 5px 0px gray;
+}
+button {
+        border: 1px solid grey;
+        background-color: #f4f4f4;
+        transition scale 2s, rotate 2s;
+}
+
+button:active {
+    scale 2; 
+    rotate: 360deg
+}
+
+p:first-child{
+    text-indent: 20px;
+}
+
+p:last-child {
+    word-spacing: 30px;
+}
