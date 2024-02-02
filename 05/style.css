@@ -19,3 +19,12 @@ p:first-child{
 p:last-child {
     word-spacing: 30px;
 }
+
+section > p {
+    font-style: italic;
+}
+
+.curr ~ li {
+    text-decoration: underline;
+    color: red;
+}
