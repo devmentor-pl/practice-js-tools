@@ -10,13 +10,15 @@
     background-color: rgba(255, 0, 0, .5);
 }
 .bg-opacity {
-    background-color: rgba(255, 0, 0,);
+    background-color: rgba(255, 0, 0);
     opacity: .5;
 }
 .bg-image {
-    background-image: url('.logo.png');
+ 
+    /* background-image: url('./logo.jpg');
     background-color: gray;
     background-repeat: no-repeat;
     background-size: auto 100%;
-    background-position: bottom right;
+    background-position: bottom right; */
+    background: gray url('./logo.jpg') bottom right/auto 100% no-repeat;
 }
