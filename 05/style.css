@@ -1,3 +1,7 @@
+p {
+    font: bold 12px/1.5em Arial, Helvetica, sans-serif;
+}
+
 article:hover {
     box-shadow: 4px 2px 5px 0px gray;
 }
@@ -24,7 +28,10 @@ section > p {
     font-style: italic;
 }
 
-.curr ~ li {
+.curr + li {
     text-decoration: underline;
     color: red;
+}
+[title] {
+    text-shadow: -2px -2px green;
 }
