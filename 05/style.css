@@ -1,14 +1,12 @@
-.square {
-    width: 100px; height: 100px;
-    position: relative;
-    display: inline-block;
+section, div {
+    box-sizing: border-box;
+    height: 400px;
+    width: 300px;
 }
-.red {
-    background-color: rgb(255, 0, 0);
-    z-index: 100;
+section {
+    border: 3px solid red;
 }
-.green {
-    background-color: rgb(0, 255, 0);
-    left: -20px; bottom: -20px;
-    z-index: 150;
+div {
+    border: 3px solid green;
+    padding: 20px;
 }
