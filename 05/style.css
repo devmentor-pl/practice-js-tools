@@ -1,22 +1,33 @@
-.nav, .nav__item {
-    outline: 1px solid;
-    margin: 3px; padding: 3px;
-}
-
 .nav {
-    outline-color: red;
     background: rgb(0, 200, 250);
+    display: flex;
     padding: 10px;
 }
 
 .nav__item {
     background: rgb(220, 220, 220);
+    cursor: pointer;
     padding: 0 5px;
     margin-left: 5px;
-    outline-color: green;
+    position: relative;
 }
-.nav__item:first-child,
 .nav__item--no-space {
     margin-left: 0;
+}
+.nav__item:hover > .nav__dropdown {
+    display: block;
+}
+.nav__dropdown {
+    display: none;
+    padding-top: 20px;
+    position: absolute;
+    left: 0;
+}
+
+.dropdown__item {
+    background: rgb(0, 200, 2500);
+    border-bottom: 3px solid rgb(220, 220, 200);
+    padding: 5px 20px;
+    min-width: 120px; 
 }
 /* strona 205 float & clear training */
