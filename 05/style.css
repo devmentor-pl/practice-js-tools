@@ -1,5 +1,5 @@
 .nav, .nav__item {
-     outline: 1px solid;
+    outline: 1px solid;
     margin: 3px; padding: 3px;
 }
 
@@ -19,3 +19,4 @@
 .nav__item--no-space {
     margin-left: 0;
 }
+/* strona 205 float & clear training */
