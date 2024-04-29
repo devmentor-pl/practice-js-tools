@@ -1,4 +1,4 @@
-> :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
+> :rocket: *Potrzebujesz pomocy w rozwiązaniu zadania? Nie wiesz, czy Twój kod jest wystarczająco dobry? Chcesz skonsultować CV lub szukasz zespołu, do wspólnego projektu? To wszystko znajdziesz na naszym serwerze Discord. Dostęp jest **bezpłatny i bez zobowiązań**. :white_check_mark: [Dołącz teraz](https://devmentor.pl/discord) do naszej społeczności!*
 
 &nbsp;
 
@@ -11,14 +11,14 @@ Aby rozwiązać zadania, powinieneś:
 - pobrać i ustawić [Chrome](https://www.google.com/intl/pl_pl/chrome/) jako przeglądarkę domyślną,
 - zainstalować środowisko [Node.js](https://nodejs.org/),
 - zaznajomić się z obsługą [Gita](https://git-scm.com/) oraz GitHuba,
-- poznać narzędzia komunikacji, takie jak [Slack](https://slack.com/) i [Skype](https://www.skype.com/),
+- poznać narzędzia komunikacji, takie jak [Slack](https://slack.com/), [Discord](https://discord.com) i [Skype](https://www.skype.com/),
 - posiadać konto w serwisie [LinkedIn](http://linkedin.com/).
 
 &nbsp;
 
 ## Zadania
 
-> :fire: *Raz w tygodniu wykonuję **bezpłatny [Code Review](https://en.wikipedia.org/wiki/Code_review)** wybranej losowo osobie, która nie współpracuje ze mną w ramach [mentoringu](https://devmentor.pl/mentoring-javascript/). Zrób [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) i weź udział w losowaniu. O wynikach losowania będę informował w piątkowym newsletterze, dlatego już teraz zachęcam Cię do [zapisania się na niego](http://devmentor.pl/newsletter). Życzę Ci efektywnej nauki programowania!
+> :bangbang: *Raz w tygodniu wykonuję **bezpłatny [Code Review](https://en.wikipedia.org/wiki/Code_review)** wybranej losowo osobie, która nie współpracuje ze mną w ramach [mentoringu](https://devmentor.pl/mentoring-javascript/). Zrób [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) i weź udział w losowaniu, wysyłając link do PR w odpowiednim kanale na [Discordzie](https://devmentor.pl/discord). Życzę Ci efektywnej nauki programowania!
 > Pozdrawiam, [Mateusz Bogolubow](https://www.linkedin.com/in/mateusz-bogolubow/).*
 
 &nbsp;
@@ -28,6 +28,8 @@ Aby rozwiązać zadania, powinieneś:
 &nbsp;
 
 ## Jak wykonać zadania?
+
+> :no_entry: *Jeśli poniższa instrukcja nie jest dla Ciebie wystarczająca to możesz skorzystać z bezpłatnego warsztatu [JavaScript: Narzędzia](https://devmentor.pl/workshop-js-tools), w którym znajdziesz dokładniejsze informację.*
 
 Najpierw zrób tzw. [`fork`](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) (prawy, górny róg strony). W ten sposób utworzysz kopię tego repozytorium na Twoim koncie GitHub. 
 
