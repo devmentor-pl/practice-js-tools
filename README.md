@@ -31,6 +31,8 @@ Aby rozwiązać zadania, powinieneś:
 
 > :no_entry: *Jeśli poniższa instrukcja nie jest dla Ciebie wystarczająca to możesz skorzystać z bezpłatnego warsztatu [JavaScript: Narzędzia](https://devmentor.pl/workshop-js-tools), w którym znajdziesz dokładniejsze informację.*
 
+&nbsp;
+
 Najpierw zrób tzw. [`fork`](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) (prawy, górny róg strony). W ten sposób utworzysz kopię tego repozytorium na Twoim koncie GitHub. 
 
 Teraz będziesz mógł wykonywać zadania na swoim repozytorium. Wystarczy, że skopiujesz pliki na swój komputer przy pomocy komendy [`git clone`](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
