@@ -29,18 +29,18 @@ Aby rozwiązać zadania, powinieneś:
 
 ## Jak wykonać zadania?
 
-> :no_entry: *Jeśli poniższa instrukcja nie jest dla Ciebie wystarczająca to możesz skorzystać z bezpłatnego warsztatu [JavaScript: Narzędzia](https://devmentor.pl/workshop-js-tools), w którym znajdziesz dokładniejsze informację.*
+> :no_entry: *Jeśli poniższa instrukcja nie jest dla Ciebie wystarczająca to możesz skorzystać z [bezpłatnego warsztatu JavaScript: Narzędzia](https://devmentor.pl/workshop-js-tools), w którym znajdziesz dokładniejsze informacje.*
 
 &nbsp;
 
-Najpierw zrób tzw. [`fork`](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) (prawy, górny róg strony). W ten sposób utworzysz kopię tego repozytorium na Twoim koncie GitHub. 
+- Najpierw zrób tzw. [`fork`](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) (prawy, górny róg strony). W ten sposób utworzysz kopię tego repozytorium na Twoim koncie GitHub. 
 
-Teraz będziesz mógł wykonywać zadania na swoim repozytorium. Wystarczy, że skopiujesz pliki na swój komputer przy pomocy komendy [`git clone`](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+- Teraz będziesz mógł wykonywać zadania na swoim repozytorium. Wystarczy, że skopiujesz pliki na swój komputer przy pomocy komendy [`git clone`](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-Zadania rozwiązuj jedno po drugim, ponieważ z każdym kolejnym ich poziom trudności wzrasta.  
+- Zadania rozwiązuj jedno po drugim, ponieważ z każdym kolejnym ich poziom trudności wzrasta.  
 
-Pamiętaj o zapisywaniu historii zmian w plikach przy pomocy komend [`git add`](https://github.com/git-guides/git-add) oraz [`git commit`](https://github.com/git-guides/git-commit).
+- Pamiętaj o zapisywaniu historii zmian w plikach przy pomocy komend [`git add`](https://github.com/git-guides/git-add) oraz [`git commit`](https://github.com/git-guides/git-commit).
 
-Aby wysłać dane na zdalny serwer, wystarczy komenda [`git push`](https://github.com/git-guides/git-push).
+- Aby wysłać dane na zdalny serwer, wystarczy komenda [`git push`](https://github.com/git-guides/git-push).
 
-Po wysłaniu plików na GitHuba wykonaj [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork), aby wziąć udział w losowaniu bezpłatnego [Code Review](https://en.wikipedia.org/wiki/Code_review) wykonanych zadań
+- Po wysłaniu plików na GitHuba wykonaj [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork), aby wziąć udział w losowaniu bezpłatnego [Code Review](https://en.wikipedia.org/wiki/Code_review) wykonanych zadań
