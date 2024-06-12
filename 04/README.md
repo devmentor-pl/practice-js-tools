@@ -8,7 +8,7 @@ Nadszedł czas na uzupełnienie Twojego profilu na [LinkedInie](https://www.link
 
 Dodaj do niego m.in. umiejętność obsługi *Gita* i *GitHuba* oraz informację, że rozpoczynasz edukację z [devmentor.pl](https://www.linkedin.com/school/devmentor-pl/).
 
-Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swojej sieci. Jeśli wykonasz wszystkie zadania z tego repozytorium i polubisz [stronę devmentor.pl](https://www.facebook.com/devmentorpl/) na Facebooku, to ja odwdzięczę się potwierdzeniem obu Twoich umiejętności!
+Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swojej sieci. Jeśli wykonasz wszystkie zadania z tego repozytorium i zasubskrybujesz [kanał devmentor.pl](https://www.youtube.com/channel/UCXasVW0-mZLLoufw_uH9okA) na YouTube, to ja odwdzięczę się potwierdzeniem obu Twoich umiejętności!
 
 **PS. Pamiętaj, aby dać mi znać na LI, że ukończyłeś zadania, przesyłając mi link do swojego forka.**
 
