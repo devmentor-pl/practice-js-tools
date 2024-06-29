@@ -13,6 +13,6 @@ Następnie [zaproś mnie](https://www.linkedin.com/in/mateusz-bogolubow/) do swo
 **PS. Pamiętaj, aby dać mi znać na LI, że ukończyłeś zadania, przesyłając mi link do swojego forka.**
 
 &nbsp;
-> :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF + wideo, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-js-tools/)*
 
-> :arrow_left: [*poprzednie zadanie*](./../03) | [*następne zadanie*](./../05) :arrow_right:
+
+GOTOWE!
