@@ -15,7 +15,7 @@ Niech stanowią miejsce, w którym będziesz zapisywać linki do materiałów do
 
 Do utworzonego workspace'a zaproś swojego znajomego. Następnie, wykorzystując *Skype'a*, połącz się z nim i zaprezentuj mu obsługę Slacka. Aby to zrobić, użyj opcji udostępniania ekranu. 
 
-**PS. Możesz mu zapropnować wspólne uzupełnianie kanałów ciekawymi treściami!**
+**PS. Możesz mu zaproponować wspólne uzupełnianie kanałów ciekawymi treściami!**
 
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF + wideo, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-js-tools/)*
