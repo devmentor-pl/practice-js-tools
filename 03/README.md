@@ -4,7 +4,7 @@
 
 # `#03` JavaScript: Narzędzia
 
-Zbuduj swój [Second Brain](https://www.youtube.com/watch?v=RVtPOptwYlg) lub chociaż wykorzystaj [Obsidian-a](https://obsidian.md) jako miejsce do przechowywania notatek związanych z nauką programowania. Jeśli potrzebujesz inspiracji to zapraszam Cię do odsłuchania odcinka podcastu [Pierwsze Kroki w IT]().
+Zbuduj swój [Second Brain](https://www.youtube.com/watch?v=RVtPOptwYlg) lub chociaż wykorzystaj [Obsidian-a](https://obsidian.md) jako miejsce do przechowywania notatek związanych z nauką programowania. Jeśli potrzebujesz inspiracji to zapraszam Cię do odsłuchania odcinka podcastu [Pierwsze Kroki w IT](https://www.youtube.com/watch?v=5-zaYXElEAU).
 
 Twoim zdaniem na teraz jest zainstalowanie programu Obsidian i utworzenie pierwszej notatki dotyczącego tego modulu, możesz napisać:
 - czego nowego się nauczyłeś
