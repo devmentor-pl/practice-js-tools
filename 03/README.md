@@ -4,18 +4,14 @@
 
 # `#03` JavaScript: Narzędzia
 
-Teraz Twoim zdaniem będzie [uruchomienie własnego workspace'a](https://slack.com/create) na Slacku.
+Zbuduj swój [Second Brain](https://www.youtube.com/watch?v=RVtPOptwYlg) lub chociaż wykorzystaj [Obsidian-a](https://obsidian.md) jako miejsce do przechowywania notatek związanych z nauką programowania. Jeśli potrzebujesz inspiracji to zapraszam Cię do odsłuchania odcinka podcastu [Pierwsze Kroki w IT]().
 
-Utwórz w nim poniższe kanały:
-- *HTML*,
-- *CSS*,
-- *JavaScript*.
+Twoim zdaniem na teraz jest zainstalowanie programu Obsidian i utworzenie pierwszej notatki dotyczącego tego modulu, możesz napisać:
+- czego nowego się nauczyłeś
+- jakie tematy chciałbyś jeszcze zgłębić
+- lista wartościowych linków, do których chcesz wrócić
 
-Niech stanowią miejsce, w którym będziesz zapisywać linki do materiałów do przeczytania na później. 
-
-Do utworzonego workspace'a zaproś swojego znajomego. Następnie, wykorzystując *Skype'a*, połącz się z nim i zaprezentuj mu obsługę Slacka. Aby to zrobić, użyj opcji udostępniania ekranu. 
-
-**PS. Możesz mu zapropnować wspólne uzupełnianie kanałów ciekawymi treściami!**
+Zawartość tej notatki (plik) przerzuć do katalogu z tym zadaniem.
 
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF + wideo, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-js-tools/)*
