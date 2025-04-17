@@ -6,7 +6,7 @@
 
 Narzędzia to temat, od którego powinniśmy zacząć naukę programowania. Bez odpowiednio przygotowanego stanowiska pracy będziemy ciągle odrywać się od efektywnej nauki.
 
-Aby rozwiązać zadania, powinieneś:
+Aby rozwiązać zadania, powinieneś:ee
 - wybrać najwygodniejsze dla siebie IDE - rekomenduję [VS Code](https://code.visualstudio.com/),
 - pobrać i ustawić [Chrome](https://www.google.com/intl/pl_pl/chrome/) jako przeglądarkę domyślną,
 - zainstalować środowisko [Node.js](https://nodejs.org/),
