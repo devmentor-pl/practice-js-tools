@@ -1,4 +1,4 @@
-'1. Poznałem:
+1. Poznałem:
 	1. nowe rozszerzenia do Chrome:
 		1. FireShot
 		2. ColorZilla
@@ -20,4 +20,4 @@
 	1. https://www.smashingmagazine.com
 	2. https://caniuse.com
 	3. https://css-tricks.com
-	4. https://stackoverflow.com'
+	4. https://stackoverflow.com
